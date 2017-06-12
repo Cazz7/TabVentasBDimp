@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--Social media-->
+    <item
+        android:title="Hola2"
+        android:id="@+id/action_facebook"
+        android:icon="@mipmap/facebook_icon"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="Hola2"
+        android:id="@+id/action_twitter"
+        android:icon="@mipmap/twitter_icon"
+        app:showAsAction="always"/>
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:title="Hola2"
+        android:id="@+id/action_buy"
+        android:icon="@mipmap/carrito_icon"
+        app:showAsAction="always"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <!--<item android:id="@+id/action_settings"-->
+        <!--android:title="Hola"-->
+        <!--app:showAsAction="always"/>-->
+
+</menu>

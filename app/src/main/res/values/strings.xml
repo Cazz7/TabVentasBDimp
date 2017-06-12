@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Merque Fácil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Lacteos-->
+    <string name="yogurt">Yogurt</string>
+    <string name="cuajada">Cuajada</string>
+    <string name="mantequilla">Mantequilla</string>
+    <string name="milk">Leche</string>
+    <string name="bonyurt">Bonyurt</string>
+    <!--Carnes-->
+    <string name="carnemolida">Carne Molida</string>
+    <string name="chorizo">Chorizo</string>
+    <string name="costilla">Costilla</string>
+    <string name="puntaanca">Punta de anca</string>
+    <string name="solomito">Solomo</string>
+    <!--Aseo-->
+    <string name="escoba">Escoba</string>
+    <string name="fabuloso">Fabuloso</string>
+    <string name="detergente">Detergente Líquido</string>
+    <string name="lavaloza">Lavaloza</string>
+    <string name="limpiador">Limpiador Multiusos</string>
+    <!--Despensa-->
+    <string name="arroz">Arroz</string>
+    <string name="azucar">Azucar</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="frijol">Frijol</string>
+    <string name="papel">Papel higiénico</string>
+    <!--Licores-->
+    <string name="oldparr">OldParr</string>
+    <string name="ron">Ron 8 años</string>
+    <string name="smirnoff">Smirnoff</string>
+    <string name="tequila1800">Tequila 1800 reposado</string>
+    <string name="casillero">Vino Casillero del diablo</string>
+
+    <!--Descripción-->
+    <string name="lista_compra">Productos en el carrito</string>
+    <string name="total">Valor total: </string>
+</resources>
